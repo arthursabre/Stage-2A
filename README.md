@@ -14,4 +14,4 @@ pip install -r requirements.txt
 
 Les fonctions codées les plus importantes sont dans le fichier main_functions.py
 
-N'hésitez pas à regarder les fichiers contenu dans le dossier 'Notebooks expérimentaux' pour comprendre l'utilisation assez intuitive des différentes fonctions. De plus, le code des fonctions est documenté de sorte à faciliter la prise en main de ces dernières.
+N'hésitez pas à regarder les fichiers contenus dans le dossier 'Notebooks expérimentaux' pour comprendre l'utilisation assez intuitive des différentes fonctions. De plus, le code des fonctions est documenté de sorte à faciliter la prise en main de ces dernières.
